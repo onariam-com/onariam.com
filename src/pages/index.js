@@ -11,7 +11,7 @@ export default function Home() {
 
       {/* Code */}
 
-      <header className="bg-slate-700 text-white text-5xl h-screen w-screen flex justify-center items-center font-semibold scale-95">Onariam...</header>
+      <header className="bg-slate-700 text-rose-500 text-6xl h-screen w-screen flex justify-center items-center font-semibold scale-95">Onariam...</header>
 
     </>
   )
