@@ -4,7 +4,7 @@ import Image from "next/image";
 export function Header() {
     return <div className="flex justify-start p-5">
         <Image
-      src='./../public/logo2.png'
+      src='/../../public/logo2.png'
       width={50}
       height={50}
       alt="Picture of the author"
